@@ -9,7 +9,7 @@
           - 😻 - The CCCAAAAATTTTT
  <h1>
  
-        ![alt tag](https://user-images.githubusercontent.com/98744239/203347883-2c238c69-4104-453c-ab78-f44b7e3abc73.png)
+        ![alt tag](https://www.pinterest.fr/pin/14707136274376530/)
 
         
            
