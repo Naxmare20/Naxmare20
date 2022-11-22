@@ -1,26 +1,35 @@
 <hr></hr>
-<h1><strong>Accueil :</strong></h1>
-    :salut_main: Hey, je suis 
-@So Wheezer
-, je suis un étudiant de 16 ans à @EdenSchoolFrance qui débutent encore en Web
-       Development.
-    :boîte_aux_lettres_drapeau_relevé: Me contacter: mbentahar@edenschool.fr
-<h2><strong>Mes projets effectués :</strong></h2>
-    :o: Aucuns pour l'instant.
-<h2><strong>Mes apprentissage en cours :</strong></h2>
-    :roue_dentée: Le Git
-    :globe_avec_méridiens: Le HTML
-    :art: Le CSS
-    :serpent: Le PHP
-    :micro: Le Mysql
-    :ours_peluche: Le WordPress
-    :cerveau: L'Algorithmie
-<h2><strong>Mes languages maitrisés :</strong></h2>
-    :tête_de_robot: Le JavaScript
-<h2><strong>Mes passions :</strong></h2>
-    :artiste_homme: L'Art-Digital et l'Animation 2D
-    :livre: Les WebComics/WebToons (anglophone)
-    :note_de_musique: Les Vocaloids et le Vtubing
-    :jeu_vidéo: Les Indies-Game RétroRPG/VisualNovel du genre psycho, horreur, post-traumatique
-    :tv: Les cartoons des années 2000
+<h1><strong>Welcome :</strong></h1>
+
+     🎉 Hi , i present me :
+     🎭 I'm a student Dev in EdenSchool France
+     🎄 I have a 3 passion :
+          - 💻 - Programming
+          - 🥽 - Metaverse
+          - 😻 - The CCCAAAAATTTTT
+          
+        ![image](https://user-images.githubusercontent.com/98744239/203347883-2c238c69-4104-453c-ab78-f44b7e3abc73.png)
+
+        
+           
+<h2><strong>My Project carry out :</strong></h2>
+
+    😅 - Sorry , i not have Project Now , please go back ^^
+    
+<h2><strong>My learning in progress :</strong></h2>
+
+     🎨 - CSS
+     🖼 - HTML
+     💍 - JS
+     💎 - REACT
+     🎱 - C#
+    
+<h2><strong>My language Favorite :</strong></h2>
+
+     💍 - Javascript
+     🎱 - C#
+     
+    
+<h2><strong>:</strong></h2>
+    
 <hr></hr>
