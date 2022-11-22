@@ -1,9 +1,7 @@
-### Hi there 👋
-
-<h1>Welcome To my GitHub</h1>
+<h1> ✨ Welcome To my GitHub ✨</h1>
 
 <h2>Language / Language Programming</h2>
-
+<strong>Mes projets effectués :</strong>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
